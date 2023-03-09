@@ -16,7 +16,7 @@ Just a technical Test
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ramaand/keda-tech-test.git
 ```
 
 Go to the project directory
